@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/codeEditor/static/js/main.73a557f2.js",
+    "main.js": "/codeEditor/static/js/main.515e5302.js",
     "static/js/266.1769237a.chunk.js": "/codeEditor/static/js/266.1769237a.chunk.js",
     "static/js/4450.0e59d6d3.chunk.js": "/codeEditor/static/js/4450.0e59d6d3.chunk.js",
     "static/js/8849.a727c974.chunk.js": "/codeEditor/static/js/8849.a727c974.chunk.js",
@@ -55,6 +55,6 @@
     "index.html": "/codeEditor/index.html"
   },
   "entrypoints": [
-    "static/js/main.73a557f2.js"
+    "static/js/main.515e5302.js"
   ]
 }
